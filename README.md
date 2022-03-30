@@ -1,4 +1,7 @@
-<img style="vertical-align:middle" src="./universe.gif">
+<div align="center">
+    <img src="./universe.gif">
+</div>
+
 <h1>
     Hello, World!
 </h1>
