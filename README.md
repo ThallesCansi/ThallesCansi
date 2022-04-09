@@ -20,13 +20,14 @@
 
 ## Linguagens mais usadas 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesCansi&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesCansi&count_private=true&hide&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## Repositórios fixados 📌
 
 [![Repositório fixado](https://github-readme-stats.vercel.app/api/pin/?username=ThallesCansi&repo=ThallesCansi&theme=github_dark)](https://github.com/ThallesCansi/ThallesCansi)
+[![Repositório fixado](https://github-readme-stats.vercel.app/api/pin/?username=ThallesCansi&repo=Site&theme=github_dark)](https://github.com/ThallesCansi/Site)
 
 ---
 
