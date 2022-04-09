@@ -1,6 +1,6 @@
 # Seja bem-vindo(a) ao meu GitHub 
 
-<img src="code.gif" alt="drawing" width="100%" height="100%"/>
+<img src="images/code.gif" alt="drawing" width="100%" height="100%"/>
 
 ## Meu nome é Thalles 👋🏼
 
