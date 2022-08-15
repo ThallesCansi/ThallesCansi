@@ -33,4 +33,4 @@
 
 ## Tocando Agora 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&text_color=666666)](https://open.spotify.com/user/7nimf7z1uy3j1kuaphtha5b19)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&text_color=666666)](https://open.spotify.com/user/224julhevzs5l5h7prmnw5eta)
