@@ -8,3 +8,7 @@
 ## Repositórios fixados 📌
 
 [![Repositório fixado](https://github-readme-stats.vercel.app/api/pin/?username=ThallesCansi&repo=ProteinStructureExplorer&theme=dracula&hide_border=true)](https://github.com/ThallesCansi/ProteinStructureExplorer) [![Repositório fixado](https://github-readme-stats.vercel.app/api/pin/?username=ThallesCansi&repo=Budget&theme=dracula&hide_border=true)](https://github.com/ThallesCansi/Budget)
+
+---
+
+![Snake animation](https://github.com/ThallesCansi/ThallesCansi/blob/output/github-contribution-grid-snake.svg)
