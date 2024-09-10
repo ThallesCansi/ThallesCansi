@@ -1,4 +1,4 @@
-<img style="border-radius: 5px; filter: drop-shadow(5px 5px 5px #000000);" src="assets/terminal.gif" alt="drawing" width="100%" height="100%"/>
+<img style="border-radius: 5px; filter: drop-shadow(5px 5px 5px #000000);" src="assets/Apresentação.gif" alt="drawing" width="100%" height="100%"/>
 
 ---
 
